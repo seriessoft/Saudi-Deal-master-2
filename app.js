@@ -18,14 +18,14 @@ var wsport = 1337;
 //var Khalil = "I Love You Very Much"
 /* client's firebase credentials changes are also requird in utils/admin.js for admin credential */
 
-var config = {
-    apiKey: "AIzaSyCj1gTHtLAbAYXAxbxyzMHWRCbKihvzdH8",
-    authDomain: "saudideal-922d4.firebaseapp.com",
-    databaseURL: "https://saudideal-922d4.firebaseio.com",
-    projectId: "saudideal-922d4",
-    storageBucket: "saudideal-922d4.appspot.com",
-    messagingSenderId: "820015895373"
-};
+  var config = {
+    apiKey: "AIzaSyCX7BzUf145by_I5OUr8U0Bz9fhR6xrx4E",
+    authDomain: "saudi-deal-proto-khalil.firebaseapp.com",
+    databaseURL: "https://saudi-deal-proto-khalil.firebaseio.com",
+    projectId: "saudi-deal-proto-khalil",
+    storageBucket: "saudi-deal-proto-khalil.appspot.com",
+    messagingSenderId: "1001907600123"
+  };
 /*
 our firebase credential
 Hello there, i am nice
